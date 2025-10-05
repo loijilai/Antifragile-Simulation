@@ -2,7 +2,7 @@
 
 An interactive Streamlit app that visualizes Nassim Nicholas Taleb’s concept of **Antifragility** — how different systems (fragile, robust, and antifragile) respond to randomness and shocks of varying intensity.
 
-[Try the demo site]()
+[Try the demo site](https://antifragile-simulation-txxrzpp3r9rjvju9vgmazw.streamlit.app/)
 
 ---
 
